@@ -1,5 +1,5 @@
 <?php
-$name = "Guest"; // Change to session or user data if available
+$name = "Guest"; 
 
 $hour = date('H');
 $greeting = ($hour < 12) ? "Good morning" : (($hour < 18) ? "Good afternoon" : "Good evening");

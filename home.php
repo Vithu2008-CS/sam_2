@@ -1,5 +1,5 @@
 <?php
-$name = "Guest"; // Optional: Replace this with session data or database value
+$name = "Guest"; 
 ?>
 
 <!DOCTYPE html>
