@@ -61,7 +61,7 @@ $name = "Guest"; // Optional: Replace this with session data or database value
   <div class="container">
     <h1>Welcome to the Home Page, <?php echo htmlspecialchars($name); ?>!</h1>
     <p>This is your dashboard or landing area. You can customize this page with more content, navigation, or tools.</p>
-    <a href="welcome_improved.php" class="btn">Back to Welcome</a>
+    <a href="index.php" class="btn">Back to Welcome</a>
   </div>
 </body>
 </html>
