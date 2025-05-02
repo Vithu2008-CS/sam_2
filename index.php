@@ -61,7 +61,7 @@ $name = "Guest";
 </head>
 <body>
   <div class="welcome-box">
-    <h1>Wele, <?php echo htmlspecialchars($name); ?>!</h1>
+    <h1>Welcome, <?php echo htmlspecialchars($name); ?>!</h1>
     <p>We’re glad to have you here. Enjoy your visit!</p>
     <a href="home.php" class="btn">Go to Homepage</a>
   </div>
